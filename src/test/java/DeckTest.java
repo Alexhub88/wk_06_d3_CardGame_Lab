@@ -50,5 +50,5 @@ public class DeckTest {
         assertEquals(2, ((deck1.getDeckCards()).get(0)).getRankValue());
     }
 
-    
+
 }
